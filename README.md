@@ -4,4 +4,4 @@ This is a repo for testing GIT and GITHUB course.
 **For those who love programming**
 - [x] Bold learned 
 - [ ] Link learned
-[github](github.com)
+- [x] log in [github](github.com)
